@@ -1,31 +1,32 @@
 {
-	"name" : "Camel Quarkus 3.8.0.redhat-00018",
-	"version" : "3.8.0.redhat-00018",
-	"runtime" : "Quarkus",
+	"name" : "Camel Spring Boot 4.14.2.redhat-00018",
+	"version" : "4.14.2.redhat-00018",
+	"executorVersion" : "4.14.2.redhat-00006",
+	"runtime" : "SpringBoot",
 	"catalogs" : {
 		"components" : {
 			"name" : "components",
 			"description" : "Aggregated Camel catalog for components",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-components-8a5d75f54e94304101d4f3f622fdee7a.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-components-4bde9b8ab8e7cd5cbaade22530251e05.json"
 		},
 		"dataformats" : {
 			"name" : "dataformats",
 			"description" : "Aggregated Camel catalog for dataformats",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-dataformats-674c4b4a9eb76f68956d390b12657276.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-dataformats-ac0341e75e4814a6a9148704b3727b79.json"
 		},
 		"entities" : {
 			"name" : "entities",
 			"description" : "Aggregated Camel catalog for entities",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-entities-7a9fac5fc9358e48f1d601821eb28e5e.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-entities-564d3eb6e9111523a92593ca02cbade8.json"
 		},
 		"functions" : {
 			"name" : "functions",
 			"description" : "Aggregated Camel catalog for functions",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-functions-dc2ed76adc2f0f909f4848164aad7ea4.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-functions-e2c904de1aea289eef7351e61b2ca057.json"
 		},
 		"kameletBoundaries" : {
 			"name" : "kameletBoundaries",
@@ -42,26 +43,26 @@
 		"languages" : {
 			"name" : "languages",
 			"description" : "Aggregated Camel catalog for languages",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-languages-6b529ac249e2fac2d43c09ba37e9ffb1.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-languages-15c66ae5bd0c2dc7dc64d81445dc2dd9.json"
 		},
 		"loadbalancers" : {
 			"name" : "loadbalancers",
 			"description" : "Aggregated Camel catalog for loadbalancers",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-loadbalancers-509e2c1b631ef3c3cca02478d665ba04.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-loadbalancers-a988f5fd76d37533a44480dbe70a80ac.json"
 		},
 		"models" : {
 			"name" : "models",
 			"description" : "Aggregated Camel catalog for models",
-			"version" : "3.8.0.redhat-00018",
+			"version" : "4.14.2.redhat-00018",
 			"file" : "camel-catalog-aggregate-models-52796d37c1fce88496d8c06a2af45e95.json"
 		},
 		"patterns" : {
 			"name" : "patterns",
 			"description" : "Aggregated Camel catalog for patterns",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-catalog-aggregate-patterns-2a1e853a4f820e4077b5c6e66396925a.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-catalog-aggregate-patterns-6c55b240e4369a145725bd844e16fa31.json"
 		}
 	},
 	"schemas" : {
@@ -92,14 +93,14 @@
 		"camel-xml-io" : {
 			"name" : "camel-xml-io",
 			"description" : "Camel XSD schema for camel-xml-io",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camel-xml-io-20fbe14d49bc0f7b742159a45a3913a1.xsd"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camel-xml-io-9505c475a589fcf3a8d55679a342e8da.xsd"
 		},
 		"camelYamlDsl" : {
 			"name" : "camelYamlDsl",
 			"description" : "Camel YAML DSL JSON schema",
-			"version" : "3.8.0.redhat-00018",
-			"file" : "camelYamlDsl-c9b1c909aaa473c46df895beb99513e.json"
+			"version" : "4.14.2.redhat-00018",
+			"file" : "camelYamlDsl-825179103e169d242ad0aea215e86026.json"
 		}
 	}
 }
