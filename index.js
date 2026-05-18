@@ -22,11 +22,6 @@ const CATALOGS = {
     '4.18.2', // LTS
     '4.14.7', // LTS
     '4.18.1.redhat-00019',
-    '4.14.4.redhat-00008',
-    '4.14.2.redhat-00019',
-    '4.10.7.redhat-00009',
-    '4.8.5.redhat-00008',
-    '4.4.0.redhat-00046',
   ],
   // https://repo1.maven.org/maven2/org/apache/camel/quarkus/camel-quarkus-catalog/
   // https://maven.repository.redhat.com/ga/org/apache/camel/quarkus/camel-quarkus-catalog/
@@ -34,10 +29,6 @@ const CATALOGS = {
     '3.35.0', // Camel Version 4.20.0
     '3.33.1', // Camel Version 4.18.2
     '3.27.4', // Camel Version 4.14.7
-    '3.27.1.redhat-00004', // Camel Version 4.14.2.redhat-00020
-    '3.20.0.redhat-00011', // Camel Version 4.10.3.redhat-00034
-    '3.15.0.redhat-00010', // Camel Version 4.8.0.redhat-00018
-    '3.8.0.redhat-00018', // Camel Version 4.4.0.redhat-00046
   ],
   // https://repo1.maven.org/maven2/org/apache/camel/springboot/camel-catalog-provider-springboot/
   // https://maven.repository.redhat.com/ga/org/apache/camel/springboot/camel-catalog-provider-springboot/
@@ -46,11 +37,6 @@ const CATALOGS = {
     '4.18.2', // LTS
     '4.14.7', // LTS
     '4.18.1.redhat-00014',
-    '4.14.4.redhat-00010',
-    '4.14.2.redhat-00018',
-    '4.10.7.redhat-00013',
-    '4.8.5.redhat-00008',
-    '4.4.0.redhat-00039',
   ],
   // https://repo1.maven.org/maven2/org/citrusframework/citrus-catalog-schema/
   Citrus: ['4.10.0', '4.10.1'],
